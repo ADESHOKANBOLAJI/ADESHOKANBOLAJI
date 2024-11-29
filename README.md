@@ -2,7 +2,7 @@
 - 💻 I’m a FullStack Developer with expertise in:  
   - **Frontend:** HTML, CSS, JavaScript, React, UI/UX Design (Photoshop, Figma)  
   - **Backend:** Node.js, PostgreSQL  
-  - **E-commerce:** WordPress, Shopify, WooCommerce  
+  - **E-commerce:** WordPress, Shopify, WooCommerce, BigCommerce, Magento, Odoo, PrestaShop, OpenCart 
   - **Blockchain & Web3:** Web3, DApps  
 - 🌱 Currently learning Python, Machine Learning, Computer Vision, and Deep Learning  
 - 🤝 I’m open to collaborating on interesting and challenging projects  
