@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ADESHOKANBOLAJI
-- 👀 I’m interested in creating solutions with tech
-- 🌱 I’m currently learning Python, Machine Learning, Computer Vision and Deep Learning 
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me via email dotun.tma@gmail.com 
-
-<!---
-ADESHOKANBOLAJI/ADESHOKANBOLAJI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @ADESHOKANBOLAJI  
+- 💻 I’m a FullStack Developer with expertise in:  
+  - **Frontend:** HTML, CSS, JavaScript, React, UI/UX Design (Photoshop, Figma)  
+  - **Backend:** Node.js, PostgreSQL  
+  - **E-commerce:** WordPress, Shopify, WooCommerce  
+  - **Blockchain & Web3:** Web3, DApps  
+- 🌱 Currently learning Python, Machine Learning, Computer Vision, and Deep Learning  
+- 🤝 I’m open to collaborating on interesting and challenging projects  
+- 📫 How to reach me: dotun.tma@gmail.com
